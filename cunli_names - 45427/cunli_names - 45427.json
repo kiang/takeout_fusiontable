@@ -1,0 +1,59 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "more info please visit https://github.com/g0v/twhgis/",
+  "exportable": true,
+  "dc:title": "cunli_names",
+  "attributionLink": "https://github.com/g0v/twhgis/tree/2014-07-01",
+  "dc:modified": "2014-07-08T16:41:07Z",
+  "dc:identifier": "1ry56XNohccuJk-ebWVmMjN_IomVu6UuZt0lkcJu7",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false,
+      "title": "ivid"
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "id"
+    },
+    {
+      "datatype": "string",
+      "name": "col2",
+      "validateData": false,
+      "title": "name"
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "town"
+    },
+    {
+      "datatype": "string",
+      "name": "col4",
+      "validateData": false,
+      "title": "county"
+    },
+    {
+      "datatype": "double",
+      "name": "col5",
+      "validateData": false,
+      "title": "vid"
+    },
+    {
+      "datatype": "string",
+      "name": "col6",
+      "validateData": false,
+      "title": "icid"
+    },
+    {
+      "datatype": "string",
+      "name": "col7",
+      "validateData": false,
+      "title": "itid"
+    }
+  ]}
+}

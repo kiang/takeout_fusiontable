@@ -1,0 +1,42 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "更正日期：101年1月10日",
+  "exportable": true,
+  "dc:title": "第13任總統副總統及第8屆立法委員選舉投票所名稱及地址一覽表",
+  "attribution": "中央選舉委員會",
+  "attributionLink": "http://web.cec.gov.tw/ezfiles/0/1000/img/132/1010112.xls",
+  "dc:modified": "2014-03-08T21:35:15Z",
+  "dc:identifier": "1ZNnqG3aU3n8EX4CMMOIEt0cvlZkjJSRq74hQl2mZ",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false,
+      "title": "縣市碼"
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "鄉鎮市區碼"
+    },
+    {
+      "datatype": "double",
+      "name": "col2",
+      "validateData": false,
+      "title": "投票所編號"
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "投票所名稱"
+    },
+    {
+      "datatype": "location",
+      "name": "col4",
+      "validateData": false,
+      "title": "地址"
+    }
+  ]}
+}

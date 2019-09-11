@@ -1,0 +1,67 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "102學年度幼兒園名錄",
+  "createdByLink": "http://olc.tw/about",
+  "exportable": true,
+  "createdBy": "就這間電腦工作室",
+  "dc:title": "102學年度幼兒園名錄",
+  "attribution": "教育部開放資料",
+  "attributionLink": "http://data.gov.tw/node/6086",
+  "dc:modified": "2014-02-24T03:48:30Z",
+  "dc:identifier": "1EpojWP9CYxt4jKtHVD4iGMyyIVUGpFAos89cyio",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false,
+      "title": "代碼"
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "學校名稱"
+    },
+    {
+      "datatype": "string",
+      "name": "col2",
+      "validateData": false,
+      "title": "地址"
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "電話"
+    },
+    {
+      "datatype": "location",
+      "name": "col4",
+      "validateData": false,
+      "title": "座標地址"
+    },
+    {
+      "datatype": "location",
+      "name": "col5",
+      "validateData": false,
+      "title": "座標"
+    },
+    {
+      "datatype": "double",
+      "name": "col6",
+      "validateData": false,
+      "title": "Lat"
+    },
+    {
+      "datatype": "double",
+      "name": "col7",
+      "validateData": false,
+      "title": "Lng",
+      "latitudeLongitudeColumns": {
+        "latitudeColumn": "col4",
+        "longitudeColumn": "col7"
+      }
+    }
+  ]},
+  "dc:source": "https://stats.moe.gov.tw/files/school/102/k1_new.txt"
+}

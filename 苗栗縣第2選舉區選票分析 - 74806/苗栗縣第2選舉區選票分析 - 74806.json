@@ -1,0 +1,40 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "Imported at Tue Dec 16 10:09:55 PST 2014 from doc.csv.",
+  "exportable": true,
+  "dc:title": "苗栗縣第2選舉區選票分析",
+  "dc:modified": "2014-12-16T18:11:55Z",
+  "dc:identifier": "1syRV0cGI-cQP0ysNR-QgU87ZE3uinae7cu_0g-6i",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false,
+      "title": "地區"
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "姓名"
+    },
+    {
+      "datatype": "double",
+      "name": "col2",
+      "validateData": false,
+      "title": "號次"
+    },
+    {
+      "datatype": "double",
+      "name": "col3",
+      "validateData": false,
+      "title": "得票數"
+    },
+    {
+      "datatype": "double",
+      "name": "col4",
+      "validateData": false,
+      "title": "得票率"
+    }
+  ]}
+}

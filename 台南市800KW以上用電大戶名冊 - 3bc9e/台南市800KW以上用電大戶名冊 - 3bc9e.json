@@ -1,0 +1,28 @@
+{
+  "licenseType": "Unknown",
+  "exportable": true,
+  "dc:title": "台南市800KW以上用電大戶名冊",
+  "attributionLink": "http://www.tainan.gov.tw/tainan/news.asp?id={03DB7847-77C9-46E5-8FA2-5422EA0D1E9E}",
+  "dc:modified": "2015-01-09T02:35:18Z",
+  "dc:identifier": "1JFobFzIX3mObPNAyea8U8k9cdPub74DfExqfCjZX",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "double",
+      "name": "col0",
+      "validateData": false,
+      "title": "編號"
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "用戶名稱"
+    },
+    {
+      "datatype": "location",
+      "name": "col2",
+      "validateData": false,
+      "title": "用電地址"
+    }
+  ]}
+}

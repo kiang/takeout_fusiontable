@@ -1,0 +1,69 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "臺南市里社區活動中心，資料來自 - http://tnda.tainan.gov.tw/acthouse/actcenter.asp",
+  "exportable": true,
+  "dc:title": "臺南市里社區活動中心",
+  "attributionLink": "http://tnda.tainan.gov.tw/acthouse/actcenter.asp",
+  "dc:modified": "2014-08-06T15:33:22Z",
+  "dc:identifier": "1idHZlHjxPgVCiku4o0g38mmL9JhGtnbzUBzg7_Zo",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false,
+      "title": "name"
+    },
+    {
+      "datatype": "string",
+      "formatPattern": "<a href='%1$s'>%1$s<\/a>",
+      "name": "col1",
+      "validateData": false,
+      "title": "url"
+    },
+    {
+      "datatype": "string",
+      "formatPattern": "<img src='%s' height='60'/>",
+      "name": "col2",
+      "validateData": false,
+      "title": "image"
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "area"
+    },
+    {
+      "datatype": "string",
+      "name": "col4",
+      "validateData": false,
+      "title": "address"
+    },
+    {
+      "datatype": "string",
+      "name": "col5",
+      "validateData": false,
+      "title": "contact"
+    },
+    {
+      "datatype": "location",
+      "name": "col6",
+      "validateData": false,
+      "title": "latitude",
+      "latitudeLongitudeColumns": {
+        "latitudeColumn": "col6",
+        "longitudeColumn": "col7"
+      }
+    },
+    {
+      "datatype": "location",
+      "name": "col7",
+      "validateData": false,
+      "title": "longitude",
+      "latitudeLongitudeColumns": {
+        "latitudeColumn": "col6",
+        "longitudeColumn": "col7"
+      }
+    }
+  ]}
+}

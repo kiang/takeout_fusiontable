@@ -1,0 +1,76 @@
+{
+  "licenseType": "Unknown",
+  "exportable": true,
+  "dc:title": "《蘋果日報》正義黑心豬油 全台691通路 - 地圖版",
+  "attribution": "蘋果日報",
+  "attributionLink": "http://www.appledaily.com.tw/realtimenews/article/new/20141030/497614/",
+  "dc:modified": "2014-11-03T16:38:30Z",
+  "dc:identifier": "1j-O_tIt_1SQjPRHUI_c4gmO28ZABhLP_ijPXp5JM",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false,
+      "title": "名稱"
+    },
+    {
+      "datatype": "double",
+      "name": "col1",
+      "validateData": false,
+      "title": "統編"
+    },
+    {
+      "datatype": "location",
+      "name": "col2",
+      "validateData": false,
+      "title": "住址"
+    },
+    {
+      "datatype": "string",
+      "formatPattern": "<a href='%1$s'>%1$s<\/a>",
+      "name": "col3",
+      "validateData": false,
+      "title": "網址"
+    },
+    {
+      "datatype": "string",
+      "name": "col4",
+      "validateData": false
+    },
+    {
+      "datatype": "string",
+      "name": "col5",
+      "validateData": false
+    },
+    {
+      "datatype": "string",
+      "name": "col6",
+      "validateData": false
+    },
+    {
+      "datatype": "string",
+      "name": "col7",
+      "validateData": false
+    },
+    {
+      "datatype": "string",
+      "name": "col8",
+      "validateData": false
+    },
+    {
+      "datatype": "string",
+      "name": "col9",
+      "validateData": false
+    },
+    {
+      "datatype": "string",
+      "name": "col10",
+      "validateData": false
+    },
+    {
+      "datatype": "string",
+      "name": "col11",
+      "validateData": false
+    }
+  ]}
+}

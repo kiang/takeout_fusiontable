@@ -1,0 +1,14 @@
+{
+  "licenseType": "Unknown",
+  "exportable": true,
+  "dc:title": "台南新違建 第一波拆263件",
+  "attributionLink": "http://housebaba.tw/archives/4098",
+  "dc:modified": "2015-01-09T10:05:57Z",
+  "dc:identifier": "1tucO7lq_3TOqkSlBNy_Jv2uDRwNtW-NGLK39rLHW",
+  "tableSchema": {"columns": [{
+    "datatype": "location",
+    "name": "col0",
+    "validateData": false,
+    "title": "違建地點"
+  }]}
+}
